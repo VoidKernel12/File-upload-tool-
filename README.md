@@ -45,8 +45,10 @@ git clone
 ```bash
 cd
 ```
+```bash
 chmod +x install.sh
 ./install.sh
+```
 ```bash
 python tool.py
 ```
