@@ -38,16 +38,18 @@ The project is suitable for:
 
 > **Important:** Exposing a local server to the public internet changes its security profile. Review the security guidance in this README before using Cloudflare Tunnel for sensitive files.
 
----
 
+```bash
 git clone 
-
+```
+```bash
 cd
-
+```
 chmod +x install.sh
 ./install.sh
+```bash
 python tool.py
-
+```
 
 ## Features
 
