@@ -40,10 +40,10 @@ The project is suitable for:
 
 
 ```bash
-git clone 
+git clone https://github.com/VoidKernel12/File-upload-tool-.git
 ```
 ```bash
-cd
+cd File-upload-tool-
 ```
 ```bash
 chmod +x install.sh
@@ -52,7 +52,6 @@ chmod +x install.sh
 ```bash
 python tool.py
 ```
-
 ## Features
 
 ### 1. Dual Authentication
